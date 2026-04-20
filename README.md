@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-- Frontend: (Netlify URL)
+- Frontend: [Netlify URL](https://magenta-florentine-4a2cfa.netlify.app/)
 - Backend: [Render URL](https://label-mvp.onrender.com)
 
 ## Run locally
