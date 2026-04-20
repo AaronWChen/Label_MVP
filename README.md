@@ -3,7 +3,7 @@
 ## Live Demo
 
 - Frontend: (Netlify URL)
-- Backend: (Render URL)
+- Backend: [Render URL](https://label-mvp.onrender.com)
 
 ## Run locally
 
